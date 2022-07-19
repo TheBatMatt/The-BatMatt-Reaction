@@ -150,7 +150,9 @@ nav  li {
 .bathome {
   border: 5px solid rebeccapurple;
   margin-top: 10px;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
 }
 
 #about {
