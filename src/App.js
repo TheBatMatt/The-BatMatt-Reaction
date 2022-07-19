@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import Nav from './components/Nav';
@@ -14,7 +14,7 @@ function App () {
       <BrowserRouter basename="/">
           <Nav />
             <Routes>
-            <Route exact path="/" element={<Home/>} />
+              <Route exact path="/The-BatMatt-Reaction/" element={<Home/>} />
               <Route exact path="/about" element={<About/>} />
               <Route exact path="/resume" element={<Resume/>} />
               <Route exact path="/contact" element={<Contact/> }  />
