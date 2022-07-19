@@ -1,7 +1,4 @@
-main {
-	margin: 0 auto;
-	max-width: 90%;
-}
+
 
 :root {
   --spacing-one: calc(1rem * 0.5);
@@ -143,6 +140,17 @@ nav  li {
   background-color: black;
   border: 2px solid white;
   text-align: center;
+}
+
+#homepage {
+  display: flex;
+  flex-direction: column;
+}
+
+.bathome {
+  border: 5px solid rebeccapurple;
+  margin-top: 10px;
+  width: 100%;
 }
 
 #about {

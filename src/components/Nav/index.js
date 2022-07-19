@@ -9,16 +9,16 @@ function Nav() {
         </a>
         <ul className="flex-row">
         <li className="mx-2">
-            <Link to="/about">BatMatt</Link>
+            <Link to="The-BatMatt-Reaction/about">BatMatt</Link>
           </li>
           <li className="mx-2">
-            <Link to="/portfolio">Portfolio</Link>
+            <Link to="The-BatMatt-Reaction/portfolio">Portfolio</Link>
           </li>
           <li className="mx-2">
-            <Link to="/resume">Resume</Link>
+            <Link to="The-BatMatt-Reaction/resume">Resume</Link>
           </li>
           <li className="mx-2">
-            <Link to="/contact">Contact</Link>
+            <Link to="The-BatMatt-Reaction/contact">Contact</Link>
           </li>
         </ul>
       </nav>

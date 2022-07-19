@@ -15,10 +15,10 @@ function App () {
           <Nav />
             <Routes>
               <Route exact path="/The-BatMatt-Reaction/" element={<Home/>} />
-              <Route exact path="/about" element={<About/>} />
-              <Route exact path="/resume" element={<Resume/>} />
-              <Route exact path="/contact" element={<Contact/> }  />
-              <Route exact path="/portfolio" element={<Projects/>} />
+              <Route exact path="/The-BatMatt-Reaction/about" element={<About/>} />
+              <Route exact path="/The-BatMatt-Reaction/resume" element={<Resume/>} />
+              <Route exact path="/The-BatMatt-Reaction/contact" element={<Contact/> }  />
+              <Route exact path="/The-BatMatt-Reaction/portfolio" element={<Projects/>} />
             </Routes>
           <Footer />
       </BrowserRouter>
