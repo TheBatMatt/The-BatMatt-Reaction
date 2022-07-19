@@ -5,7 +5,6 @@ import PlannerImage from "../../assets/port-images/planner.jpg";
 import ReelMeInImage from "../../assets/port-images/reelmein.jpg";
 import RiddleImage from "../../assets/port-images/riddle.jpg";
 import TeamProImage from "../../assets/port-images/teaprofile.jpg";
-import EyeEmployeeImage from "../../assets/port-images/watchtower.jpg";
 import TRex from "../../assets/port-images/TRex.jpg"
 
 function Projects() {
