@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/The-BatMatt-Reaction/static/css/main.c2ed55d5.css",
-    "main.js": "/The-BatMatt-Reaction/static/js/main.6c607fc7.js",
+    "main.js": "/The-BatMatt-Reaction/static/js/main.8e711cf2.js",
     "static/js/787.6e9e1123.chunk.js": "/The-BatMatt-Reaction/static/js/787.6e9e1123.chunk.js",
     "static/media/TedJ.jpg": "/The-BatMatt-Reaction/static/media/TedJ.1ec780f24e64d09ee935.jpg",
     "static/media/batmanresumeimage.jpg": "/The-BatMatt-Reaction/static/media/batmanresumeimage.b4f7974150c9b16aeb05.jpg",
@@ -15,11 +15,11 @@
     "static/media/planner.jpg": "/The-BatMatt-Reaction/static/media/planner.7e0c2b60030852e7c31f.jpg",
     "index.html": "/The-BatMatt-Reaction/index.html",
     "main.c2ed55d5.css.map": "/The-BatMatt-Reaction/static/css/main.c2ed55d5.css.map",
-    "main.6c607fc7.js.map": "/The-BatMatt-Reaction/static/js/main.6c607fc7.js.map",
+    "main.8e711cf2.js.map": "/The-BatMatt-Reaction/static/js/main.8e711cf2.js.map",
     "787.6e9e1123.chunk.js.map": "/The-BatMatt-Reaction/static/js/787.6e9e1123.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c2ed55d5.css",
-    "static/js/main.6c607fc7.js"
+    "static/js/main.8e711cf2.js"
   ]
 }
