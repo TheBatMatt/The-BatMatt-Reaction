@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/The-BatMatt-Reaction/static/css/main.8a30bd91.css",
-    "main.js": "/The-BatMatt-Reaction/static/js/main.4cc7a1db.js",
+    "main.css": "/The-BatMatt-Reaction/static/css/main.a3696353.css",
+    "main.js": "/The-BatMatt-Reaction/static/js/main.dcdbaea0.js",
     "static/js/787.6e9e1123.chunk.js": "/The-BatMatt-Reaction/static/js/787.6e9e1123.chunk.js",
-    "static/media/watchtower.jpg": "/The-BatMatt-Reaction/static/media/watchtower.74e1cc7e21c8049372a4.jpg",
     "static/media/TedJ.jpg": "/The-BatMatt-Reaction/static/media/TedJ.1ec780f24e64d09ee935.jpg",
     "static/media/batmanresumeimage.jpg": "/The-BatMatt-Reaction/static/media/batmanresumeimage.b4f7974150c9b16aeb05.jpg",
     "static/media/Ted Resume.pdf": "/The-BatMatt-Reaction/static/media/Ted Resume.cfee5526b60567913730.pdf",
@@ -11,15 +10,16 @@
     "static/media/riddle.jpg": "/The-BatMatt-Reaction/static/media/riddle.6f795433ddd4bddda099.jpg",
     "static/media/TRex.jpg": "/The-BatMatt-Reaction/static/media/TRex.ff0bf349e3d760037468.jpg",
     "static/media/reelmein.jpg": "/The-BatMatt-Reaction/static/media/reelmein.bf271c3c8f02838808cd.jpg",
+    "static/media/batman_logo_home.jpg": "/The-BatMatt-Reaction/static/media/batman_logo_home.3551b06f5882162d6342.jpg",
     "static/media/Neon Movie.jpg": "/The-BatMatt-Reaction/static/media/Neon Movie.1925b5931eb3c795e8c7.jpg",
     "static/media/planner.jpg": "/The-BatMatt-Reaction/static/media/planner.7e0c2b60030852e7c31f.jpg",
     "index.html": "/The-BatMatt-Reaction/index.html",
-    "main.8a30bd91.css.map": "/The-BatMatt-Reaction/static/css/main.8a30bd91.css.map",
-    "main.4cc7a1db.js.map": "/The-BatMatt-Reaction/static/js/main.4cc7a1db.js.map",
+    "main.a3696353.css.map": "/The-BatMatt-Reaction/static/css/main.a3696353.css.map",
+    "main.dcdbaea0.js.map": "/The-BatMatt-Reaction/static/js/main.dcdbaea0.js.map",
     "787.6e9e1123.chunk.js.map": "/The-BatMatt-Reaction/static/js/787.6e9e1123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8a30bd91.css",
-    "static/js/main.4cc7a1db.js"
+    "static/css/main.a3696353.css",
+    "static/js/main.dcdbaea0.js"
   ]
 }
